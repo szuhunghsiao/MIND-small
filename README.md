@@ -29,5 +29,6 @@ news.tsv
 - SubCategory
 - Title
 - Abstract
+- URL
 - Title Entities (entities contained in the title of this news)
 - Abstract Entities (entites contained in the abstract of this news)
